@@ -23,7 +23,7 @@ let BASE_URL = 'https://localhost:4200/' // contact for your own node or the pro
 - [getTokenMetaData](docs/getTokenMetaData.md) - provide onchain information about a specific cryptocurrency. 
 
 ## Data API Funtionality & Docs
-- [coinData](docs/coinData.md) - Get coin data from supabase database ``` Over 100,000 coins & tokens and counting, updated daily```
+- [coinData](docs/coinData.md) - Get coin data from supabase database ```Over 100,000 coins & tokens and counting, updated daily```
 - [labels](docs/labels.md) - Address labels API ```Over 1,000,000 labels and counting, updated daily, functionality for custom labels via telegram```
 - [coinImages](docs/getImages.md) - Crypto images CDN & API ```Over 100,000 images updated daily, in muliple formats```
 - [getFunds](docs/getFunds.md) - Get's data about venture capital funds, provide endpoints for weekly & fundrasing reports. ```Over 70,000 Records and updated daily with new funds and VC's!```
