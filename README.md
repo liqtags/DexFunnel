@@ -4,8 +4,6 @@ DexFunnel is a API, it can funnel you data as per your needs, I use it for my te
 
 Telegram Bot talks to server and nodes on the same localhost, for your own instances contact me
 
-*** This is WIP and will shift and grow as it's built out. 
-
 ```javascript
 let BASE_URL = 'https://localhost:4200/' // contact for your own node or the prod url
 ```
