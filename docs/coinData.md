@@ -22,166 +22,166 @@ API for Coin Data from Supabase, updated everyday. It's data is very static but 
 
 ## Categories
 
-- Currency
-- Chain
-- Stablecoin
-- Meme
-- Blockchain Infrastructure
-- DeFi
-- CeFi
-- Blockchain Service
-- GameFi
-- Social
-- NFT
+- currency
+- chain
+- stablecoin
+- meme
+- blockchain-infrastructure
+- defi
+- cefi
+- blockchain-service
+- gamefi
+- social
+- nft
 
 ## Tags
-- Payments
-- Polkadot Ecosystem
-- Cosmos Ecosystem
-- Wallet
-- Synthetic Assets
-- Fantom Ecosystem
-- Avalanche Ecosystem
-- Solana Ecosystem
-- Polygon Ecosystem
-- Near Ecosystem
-- Terra Ecosystem
-- Heco Ecosystem
-- TRON Ecosystem
-- Logistics
-- BNB Chain Ecosystem
-- Aptos Ecosystem
-- Social Network
-- Security
-- Verification
-- Messenger
-- Inscription
-- Advertising
-- Art
-- Masternode
-- Base Ecosystem
-- Prediction Markets
-- Energy Solutions
-- Gnosis Ecosystem
-- Real Estate
-- EigenLayer Ecosystem
-- Portfolio Management
-- Trading Strategies
-- Governance
-- Staking
-- Cross-Chain
-- Arbitrum Ecosystem
-- Social Media
-- Flow Ecosystem
-- Chiliz Ecosystem
-- MultiversX Ecosystem
-- Harmony Ecosystem
-- Cronos Ecosystem
-- Injective Ecosystem
-- Watch to Earn
-- Tokenized Stocks
-- Linea Ecosystem
-- DAO
-- Smart Contract Platform
-- Oracle
-- Node
-- Yield Aggregator
-- Options
-- Insurance
-- Metaverse
-- Education
-- Charity
-- Freelance
-- Fan Token
-- NFT Lending
-- Donations
-- Sei Ecosystem
-- Bitcoin Runes
-- Mantle Ecosystem
-- Optimism Ecosystem
-- Metis Ecosystem
-- Fiat-backed
-- TON Ecosystem
-- zkSync Ecosystem
-- Sui Ecosystem
-- Developer Tools
-- Manta Ecosystem
-- Mining Solutions
-- VR & AR
-- Blast Ecosystem
-- Wrapped Token
-- Bitcoin Scaling
-- Stacks Ecosystem
-- Index
-- Proof of Work (PoW)
-- LSDfi
-- Optimistic Rollup
-- Leveraged Token
-- Rebase Tokens
-- Restaking
-- NFT
-- Coins Alleged as Securities by SEC
-- Privacy
-- Artificial Intelligence (AI)
-- Internet of Things (IoT)
-- Layer 1 (L1)
-- Parachain
-- Proof of Stake (PoS)
-- Delegated Proof of Stake (DPoS)
-- Bridge
-- Cloud Services
-- Exchange Aggregator
-- Yield Farming
-- AMM
-- Decentralized Application (dApp)
-- DEX
-- Taiko Ecosystem
-- Mobile
-- ve(3,3)
-- Launchpad
-- CEX
-- Gaming Guild
-- Play to Earn (P2E)
-- Move to Earn (M2E)
-- Music
-- Carbon Credit
-- Sports
-- Collectibles
-- Marketplace
-- BRC-20
-- Data Service
-- Bots
-- Digital Identity
-- Healthcare
-- Account Abstraction
-- Mode Ecosystem
-- Scroll Ecosystem
-- Ethereum Ecosystem
-- EVM
-- Stablecoin Protocol
-- Modular
-- Lending
-- Creator Economy
-- Quest Platform
-- RWA
-- Racing
-- Gaming Studio
-- Real Yield
-- Intent
-- Layer 2 (L2)
-- Perpetuals
-- Shooter
-- Card Games
-- Clicker
-- zk-Proofs (ZKP)
-- Liquid Staking Token (LST)
-- ZK-Rollup
-- Over-collateralized
-- StarkNet Ecosystem
-- Polygon zkEVM Ecosystem
-- Binance Launchpool
-- API
-- LayerZero Ecosystem
-- RPG
-- ERC404
-- DePIN
+- payments
+- polkadot-ecosystem
+- cosmos-ecosystem
+- wallet
+- synthetic-assets
+- fantom-ecosystem
+- avalanche-ecosystem
+- solana-ecosystem
+- polygon-ecosystem
+- near-ecosystem
+- terra-ecosystem
+- heco-ecosystem
+- tron-ecosystem
+- logistics
+- bnb-chain-ecosystem
+- aptos-ecosystem
+- social-network
+- security
+- verification
+- messenger
+- inscription
+- advertising
+- art
+- masternode
+- base-ecosystem
+- prediction-markets
+- energy-solutions
+- gnosis-ecosystem
+- real-estate
+- eigenlayer-ecosystem
+- portfolio-management
+- trading-strategies
+- governance
+- staking
+- cross-chain
+- arbitrum-ecosystem
+- social-media
+- flow-ecosystem
+- chiliz-ecosystem
+- multiversx-ecosystem
+- harmony-ecosystem
+- cronos-ecosystem
+- injective-ecosystem
+- watch-to-earn
+- tokenized-stocks
+- linea-ecosystem
+- dao
+- smart-contract-platform
+- oracle
+- node
+- yield-aggregator
+- options
+- insurance
+- metaverse
+- education
+- charity
+- freelance
+- fan-token
+- nft-lending
+- donations
+- sei-ecosystem
+- bitcoin-runes
+- mantle-ecosystem
+- optimism-ecosystem
+- metis-ecosystem
+- fiat-backed
+- ton-ecosystem
+- zksync-ecosystem
+- sui-ecosystem
+- developer-tools
+- manta-ecosystem
+- mining-solutions
+- vr-ar
+- blast-ecosystem
+- wrapped-token
+- bitcoin-scaling
+- stacks-ecosystem
+- index
+- proof-of-work-pow
+- lsd-fi
+- optimistic-rollup
+- leveraged-token
+- rebase-tokens
+- restaking
+- nft
+- coins-alleged-as-securities-by-sec
+- privacy
+- artificial-intelligence-ai
+- internet-of-things-iot
+- layer-1-l1
+- parachain
+- proof-of-stake-pos
+- delegated-proof-of-stake-dpos
+- bridge
+- cloud-services
+- exchange-aggregator
+- yield-farming
+- amm
+- decentralized-application-dapp
+- dex
+- taiko-ecosystem
+- mobile
+- ve-3-3
+- launchpad
+- cex
+- gaming-guild
+- play-to-earn-p2e
+- move-to-earn-m2e
+- music
+- carbon-credit
+- sports
+- collectibles
+- marketplace
+- brc-20
+- data-service
+- bots
+- digital-identity
+- healthcare
+- account-abstraction
+- mode-ecosystem
+- scroll-ecosystem
+- ethereum-ecosystem
+- evm
+- stablecoin-protocol
+- modular
+- lending
+- creator-economy
+- quest-platform
+- rwa
+- racing
+- gaming-studio
+- real-yield
+- intent
+- layer-2-l2
+- perpetuals
+- shooter
+- card-games
+- clicker
+- zk-proofs-zkp
+- liquid-staking-token-lst
+- zk-rollup
+- over-collateralized
+- starknet-ecosystem
+- polygon-zkevm-ecosystem
+- binance-launchpool
+- api
+- layerzero-ecosystem
+- rpg
+- erc404
+- depin
