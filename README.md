@@ -32,6 +32,9 @@ let BASE_URL = 'https://localhost:4200/' // contact for your own node or the pro
 - [getProjects](docs/getProjects.md) - API for Crypto dapps, projects & experts  ```Crypto dapps & project data, over 100,000 Records```
 - [getUtils](docs/getUtils.md) - Crypto Utils API
 
+## Other repos
+- [Crypto Image CDN Repo](https://github.com/liqtags/crypto-images)
+
 ## Blockchain API's Funtionality & Docs
 - [walletAPI](docs/walletAPI.md) - Wallet Data endpoints & utilities. 
 - [pricesAPI](docs/pricesAPI.md) - Onchain Price Data endpoints & NFT prices
