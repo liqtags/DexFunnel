@@ -23,14 +23,17 @@ let BASE_URL = 'https://localhost:4200/' // contact for your own node or the pro
 - [getTokenMetaData](docs/getTokenMetaData.md) - provide onchain information about a specific cryptocurrency. 
 
 ## Data API Funtionality & Docs
-- [coinData](docs/coinData.md) - Get coin data from supabase database
-- [labels](docs/labels.md) - Address labels API
-- [coinImages](docs/getImages.md) - Crypto images CDN & API
-- [getFunds](docs/getFunds.md) - Get's data about venture capital funds, provide endpoints for weekly & fundrasing reports. 
-- [getEvents](docs/getEvents.md) - Alpha events & new crypto events
+- [coinData](docs/coinData.md) - Get coin data from supabase database ```Over 100,000 coins & tokens and counting, updated daily```
+- [labels](docs/labels.md) - Address labels API ```Over 1,000,000 labels and counting, updated daily, functionality for custom labels via telegram user account```
+- [coinImages](docs/getImages.md) - Crypto images CDN & API ```Over 100,000 images updated daily, in muliple formats```
+- [getFunds](docs/getFunds.md) - Get's data about venture capital funds, provide endpoints for weekly & fundrasing reports. ```Over 70,000 Records and updated daily with new funds and VC's!```
+- [getEvents](docs/getEvents.md) - Alpha events & new crypto events.
 - [getGlossary](docs/getGlossary.md) - API for Crypto glossary and term explanations
-- [getProjects](docs/getProjects.md) - API for Crypto dapps, projects & experts 
+- [getProjects](docs/getProjects.md) - API for Crypto dapps, projects & experts  ```Crypto dapps & project data, over 100,000 Records```
 - [getUtils](docs/getUtils.md) - Crypto Utils API
+
+## Other repos
+- [Crypto Image CDN Repo](https://github.com/liqtags/crypto-images)
 
 ## Blockchain API's Funtionality & Docs
 - [walletAPI](docs/walletAPI.md) - Wallet Data endpoints & utilities. 
@@ -90,3 +93,28 @@ If you encounter issues related to authentication or authorization errors, ensur
 
 - The API key is correctly formatted and included in the request URL.
 - The API key has the necessary permissions to access the requested endpoint.
+
+# Plans
+Free: 
+- Price: $0.00 / month
+- Monthly calls/actions: 500
+- Cost per call: $0.00
+- Request per second: 3
+
+Paid Plan 1: 
+- Price: $4.99 / month
+- Monthly calls/actions: 2,500
+- Cost per call: $0.002
+- Request per second: 5
+
+Paid Plan 2: 
+- Price: $99 / month
+- Monthly calls/actions: 50,000
+- Cost per call: $0.001
+- Request per second: 30
+
+Paid Plan 3: 
+- Price: $249 / month
+- Monthly calls/actions: 500,000
+- Cost per call: $0.00025
+- Request per second: 50

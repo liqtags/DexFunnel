@@ -1,5 +1,8 @@
 # Crypto Images API
-Crypto Projects API 
+Crypto Image API
+
+- [Crypto Image CDN Repo](https://github.com/liqtags/crypto-images)
+- [Crypto Image CDN Site](https://liqtags.github.io/crypto-images/)
 
 ## Endpoints 
 * Coin Images: `GET /api/images/coins/{name}`
