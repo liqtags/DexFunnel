@@ -2,9 +2,9 @@
 
 DexFunnel is a API, it can funnel you data as per your needs, I use it for my telegram bot but it can be used for Screener webites and blockchain DD things; see each endpoint linked below and details on the url, endpoint and how to consume this data yourself. 
 
-```Links below link to other pages inside this repo or other repos within my account```
-
 Telegram Bot talks to server and nodes on the same localhost, for your own instances contact me
+
+```Links below link to other pages inside this repo or other repos within my account```
 
 ```javascript
 let BASE_URL = 'https://localhost:4200/' // contact for your own node or the prod url
