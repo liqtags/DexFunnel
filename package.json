@@ -1,0 +1,25 @@
+{
+  "name": "dexfunnel",
+  "version": "1.0.0",
+  "description": "DexFunnel is a API, it can funnel you data as per your needs, I use it for my telegram bot but it can be used for Screener webites and blockchain DD things; see each endpoint linked below and details on the url, endpoint and how to consume this data yourself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "nodemonConfig": {
+    "ignore": [
+      "public/javascripts/*.js"
+    ]
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.5",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
