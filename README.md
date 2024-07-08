@@ -6,6 +6,10 @@ Telegram Bot talks to server and nodes on the same localhost, for your own insta
 
 *** This is WIP and will shift and grow as it's built out. 
 
+```javascript
+let BASE_URL = 'https://localhost:4200/' // contact for your own node or the prod url
+```
+
 ## Onchain API Functionality & Docs 
 - [getTokenPairStats](docs/getTokenPairStats.md) - retrieves token statistics for a specific base and quote token pair.
 - [getNewPairsByCriteria](docs/getNewPairsByCriteria.md) - retrieves new pairs based on specified criteria.
