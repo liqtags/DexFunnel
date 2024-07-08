@@ -90,3 +90,28 @@ If you encounter issues related to authentication or authorization errors, ensur
 
 - The API key is correctly formatted and included in the request URL.
 - The API key has the necessary permissions to access the requested endpoint.
+
+# Plans
+Free: 
+- Price: $0.00 / month
+- Monthly calls/actions: 500
+- Cost per call: $0.00
+- Request per second: 3
+
+Paid Plan 1: 
+- Price: $4.99 / month
+- Monthly calls/actions: 2,500
+- Cost per call: $0.002
+- Request per second: 5
+
+Paid Plan 2: 
+- Price: $99 / month
+- Monthly calls/actions: 50,000
+- Cost per call: $0.001
+- Request per second: 30
+
+Paid Plan 3: 
+- Price: $249 / month
+- Monthly calls/actions: 500,000
+- Cost per call: $0.00025
+- Request per second: 50
